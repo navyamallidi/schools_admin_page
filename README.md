@@ -1,4 +1,5 @@
-School Management Application, a dynamic platform for managing and exploring school information. This application allows users to view, search, and sort a list of schools, providing a user-friendly interface with modern features.
+# School Management Application 
+a dynamic platform for managing and exploring school information. This application allows users to view, search, and sort a list of schools, providing a user-friendly interface with modern features.
 
 **Features**
 
@@ -24,33 +25,21 @@ Contributing
 
 License
 
-Installation
+**Installation**
 
 To get started with this project, follow these steps:
 
-Clone the Repository
-
 git clone https://github.com/yourusername/school-management-app.git
-
-Navigate to the Project Directory
 
 cd school-management-app
 
-Install Dependencies
-
-Ensure you have Node.js installed. Then, run:
-
 npm install
-
-Run the Development Server
-
-Start the development server with:
 
 npm run dev
 
 Open your browser and go to http://localhost:3000 to see the application in action.
 
-Usage
+**Usage**
 
 Once the server is running, you can:
 
