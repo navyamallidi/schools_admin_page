@@ -51,3 +51,9 @@ Sort Schools: Use the dropdown menu to sort schools by name, city, or contact.
 
 Screenshots
 
+![p1](https://github.com/user-attachments/assets/0902b06d-23bb-470a-abbd-7e06a7641b9e)
+
+![p2](https://github.com/user-attachments/assets/c23d5691-9143-49dc-849f-ca4869f41eb7)
+
+
+
